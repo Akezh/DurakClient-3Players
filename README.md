@@ -6,7 +6,9 @@
 
 This repository contains the core game logic for a **multiplayer online card game** developed using **Unity**. The game is designed to support 3 players in real-time matches, featuring automated card distribution, advanced role management, and sophisticated game logic. With over 4,000 monthly players, the game was ranked among the top 3 in "Editors' Choice" on Google Play, and over a million game lobbies were created within the first year of its release.
 
-  
+## Server project
+- Visit https://github.com/Akezh/DurakServer-3Players/
+
 ## Installation
 
 1. Clone the repository:
